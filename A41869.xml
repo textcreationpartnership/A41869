@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and wonderful discovery, of the bloudy villains, and inhumane murtherers, committed to Newgate and other places since that great and lamentable fire, at Mr. Delaun's house in Loathbury: with the manner how they were apprehended and taken, as they were sharing of their ill-gotten goods: and a more perfect relation, touching that strange and lamentable accident; and those dear souls that perished in the flames.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41869</idno>
+            <idno type="STC">Wing G1660A</idno>
+            <idno type="STC">ESTC R223646</idno>
+            <idno type="EEBO-CITATION">99833935</idno>
+            <idno type="PROQUEST">99833935</idno>
+            <idno type="VID">38414</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41869)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38414)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1833:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and wonderful discovery, of the bloudy villains, and inhumane murtherers, committed to Newgate and other places since that great and lamentable fire, at Mr. Delaun's house in Loathbury: with the manner how they were apprehended and taken, as they were sharing of their ill-gotten goods: and a more perfect relation, touching that strange and lamentable accident; and those dear souls that perished in the flames.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 3: A great and wonderful discovery of of [sic] the bloody villains, and inhumane murtherers, that fired the house of Mr. Delaunes, &amp;c.</note>
+                  <note>Reproduction of original in Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38414:1"/>
+            <pb facs="tcp:38414:1" rendition="simple:additions"/>
+            <p>A Great and Wonderful DISCOVERY, OF The Bloudy Villains, and inhumane Murtherers, committed to Newgate and other Places; ſince that great and lamentable Fire, at Mr. <hi>Delaun's</hi>'s houſe in <hi>Loathbury:</hi> With the manner how they were apprehended and taken, as they were ſharing of their ill-gotten Goods: And a more perfect Relation, touching that ſtrange and lamentable Accident; and thoſe dear Souls that periſhed in the Flames.</p>
+            <figure/>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Johnſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:38414:2"/>
+            <pb n="3" facs="tcp:38414:2" rendition="simple:additions"/>
+            <head>A Great and wonderful diſcovery of of the bloody Villains, and in<g ref="char:EOLhyphen"/>humane murtherers, that fired the Houſe of Mr. Delaunes, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Mongſt the reſt of the ſad and lamentable accidents, which have happened of late years, none ſo great and full of aſto<g ref="char:EOLhyphen"/>niſhment and terrour, as that which proceeds from the fu<g ref="char:EOLhyphen"/>rious and unſpeakable flames of a firce and vehement fire; Indeed true it is, many poor ſouls have too: often, been expoſed to the mercyleſs fury of fiery flames; that have
+<pb n="4" facs="tcp:38414:3" rendition="simple:additions"/>hapned ſeveral ways. <hi>But the late ſad and lamen<g ref="char:EOLhyphen"/>table Accident, which hapned in Loathbury it excee<g ref="char:EOLhyphen"/>ding deplorable the whole Family and all in the houſe being burnt to Aſhes: for they had not been many hours (on Friday night, to Chriſtmas time! in their beds,</hi> but the fire brake forth moſt vehemently, in the lower Rooms, and immediately took hold of the lower Seilings, and ſo to the reſt, and in ſuch a ſad and lamentable manner, that in leſs then three hours time the whole houſe was burned down to the ground, and the people in it all periſhed in the flames, to the unſpeakable grief and aſtoniſhment not only of their Relations, but of all good Chri<g ref="char:EOLhyphen"/>ſtians in general: Yet great was the good hand and Providence of God, towards a Gentlewoman who being there over night, was importuned to ſtay but ſhe reſuſed, and went home to Alderman <hi>Allens, A mercy never to be forgotten:</hi> otherwiſe; who knows, but that this Dear ſoul might have alſo Periſhed in the flames, as to her out ward Eſtate and Condition: But bleſſed be God for her Deli<g ref="char:EOLhyphen"/>verance, and the Lord grant ſhe ma for ever walk anſwerably, to the honour and Praiſe of his great and glorious Name, for ſo high and ſignal a mercy: And truly, ſo great a mercy was it, to the families adjoyning likewiſe that every member thereof ought highly to praiſe the name of the Lord, and as long as they have a being in this life, to return humble thanks to the great Jehovah, their great &amp; Omnipotent Preſerver, who was pleaſed in great mercy to give a period to thoſe deſtroying flames. For indeed ſo great &amp; vio ent they were, that they
+<pb n="5" facs="tcp:38414:3" rendition="simple:additions"/>ſeemed for a while unquenchable; notwithſtanding the utmuſt endeavours of the good People there<g ref="char:EOLhyphen"/>abouts, for the allaying of them, who left no mean<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unattempted after it was Diſcovered.</p>
+            <p>But it had taken too great a head, to the un<g ref="char:EOLhyphen"/>ſpeakable grief of many before it was diſcornable, and had not providence ſo decreed, that a Woman (who ſate up with a Child that was not well hear<g ref="char:EOLhyphen"/>ing as it were, a great eracking, and fearing that a Villain might be breaking into the houſe, looked out of a Chamber window, and eſpied a great light in the Merchants lower Rooms, as if there had been many hundred Candles burning in the Windows: whereupon, though much amazed, ſhe cryed out, Fire, Fire, inſomuch as the Coffee man looked alſo out of his Window, and immediately heard the doleful cryes, <hi>Lord have mercy upon us we are all undone:</hi> which was all the words that they were heard ſpeak. This being about two of the Clock on Saturday morning, the 2<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>December.</hi> But before three or four, the mercileſs flames had brought that goodly building for the moſt part e<g ref="char:EOLhyphen"/>ven to duſt and aſhes, and all that was in it. So violent it was, that it burnt even like fire in an O<g ref="char:EOLhyphen"/>ven. And had it not been for the great dare and vigilancy of the maniſold inſlruments that God was pleaſed to raiſe, for the preſervation of the adjoyning houſes it had undoubtedly made great ruine thereof; but by the unwearied pains of ma<g ref="char:EOLhyphen"/>ny perſons caſting great ſtore of water from the other houſes upon the fire that burnt up ſo fierce<g ref="char:EOLhyphen"/>ly, it pleaſed God at laſt to allay the flames, &amp; by
+<pb n="6" facs="tcp:38414:4" rendition="simple:additions"/>long hooks, and other inſtruments, Mr. <hi>Teryls</hi> houſe and many others were preſerved, but not without great damage to many; for ſo hot were the Brick wall, both on that and the other ſide of the way, that the people were fain to caſt water thereupon, and to hang wet Blankets, Coverlids, and other things, both upon the out and inſides to allay the heat, &amp; to prevent the near approach<g ref="char:EOLhyphen"/>ing dangers; for ſo ſad and diſmall a thing is fire that where it breaks forth too violently great ca<g ref="char:EOLhyphen"/>lamities there enſues. It is indeed a good Servant but a bad Maſter; and from ſuch a Miniſtring Spi<g ref="char:EOLhyphen"/>rit and the fury thereof <hi>Good Lord deliver this City.</hi>
+            </p>
+            <p>Thus much for the Relation, as it was taken at firſt: That which further re<g ref="char:EOLhyphen"/>mains, is, A Relation (as it is reported) of the bloudy Villains and inhumane Wretches, that were Actors in this ſad and lamentable Tragedy: ſix being taken (as it is ſaid) and carryed to Chelmsford Gaol, being diſcovered on Friday laſt near Burntwood; as their quarrelling about ſharing of their ill-gotten goods; and 'tis ſaid, that theſe Villains having got privately into the houſe took an opportunity, when all was in bed and aſleep, to cut the Maids Throats, gag
+<pb n="7" facs="tcp:38414:4" rendition="simple:additions"/>and bind all the reſt in their beds, ranſack'd the houſe of all the Moneys and Plate they could find, and afterward, ſet fire on the houſe, lock'd the doors, and caſt the Key o<g ref="char:EOLhyphen"/>ver the Wall. This, if true, is the moſt barbarous and inhumane Action that was ever heard of; and, no doubt, but a ſhort time will make manifeſt the truth of all things. For have we not daily experience of many wonderful Diſcoveries; as that touching the Pewterer, who having got his Maid with Child, pretended to ſend her into the Countrey; but wickedly de<g ref="char:EOLhyphen"/>ſigned two Villains to murther her by the way; and leading her into a Wood, and ſtripping her naked, hung her up by the hair of her head to a Tree, gag'd her, and tyed her hands behind her; in which ſad condition, ſhe remained all night; but the next morning, a Drover coming that way, and the Swine running into the Wood, he eſpyed this ſad Spectacle, cut her down, and put his Coat about her; which done, he ran
+<pb n="8" facs="tcp:38414:5"/>to the next Town, raiſed the People; but ſhe is ſince dead, and the Conſpirators ta<g ref="char:EOLhyphen"/>ken, and committed to Newgate.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38414:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
